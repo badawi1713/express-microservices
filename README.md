@@ -1,5 +1,4 @@
-# express-microservices
-Learn how to build microservices with Express as server and React as client.
+## Learn how to build microservices with Express as server and React as client.
 ---
 ### How to use it?
 1. Install modules on all directories
